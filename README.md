@@ -20,4 +20,4 @@ This project automates the process of scraping responses from Bing Chat using **
 ```bash
 git clone https://github.com/your-username/bing-chat-scraper.git
 cd bing-chat-scraper
-pip install -r requirements.txt
+
